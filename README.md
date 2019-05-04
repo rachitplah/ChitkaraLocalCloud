@@ -1,6 +1,6 @@
 # ChitkaraLocalCloud
 
-### General Precautions and TO-DO :
+### General Precautions and TO-DOs :
 * It strictly works on the intranet user identification portal of Chitkara University. Some URI and other modifications may be required in the python script(hello.py) for use in other projects.
 * The python script used required Robobrowser in Python 3.x at the time of development.
 * Default user admin id must be changed in the home.php
@@ -12,6 +12,7 @@ This project purpose was to make a local cloud which was locally available to us
 ### Sample Pages:
 #### Home Screen:
 ![Home Screen](https://github.com/rachitplah/ChitkaraLocalCloud/master/Samples/clchome2.JPG)
+[[https://github.com/rachitplah/ChitkaraLocalCloud/master/Samples/clchome2.JPG|alt=yeye]]
 The red boxes point out the other important functionalities.
 #### Folder Screen:
 ![Folder Screen](https://raw.githubusercontent.com/rachitplah/ChitkaraLocalCloud/master/Samples/clcimagefolder.JPG)
