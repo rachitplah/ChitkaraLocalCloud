@@ -11,7 +11,7 @@ This project purpose was to make a local cloud which was locally available to us
 
 ### Sample Pages:
 #### Home Screen:
-![Home Screen](https://github.com/rachitplah/ChitkaraLocalCloud/master/Samples/clchome2.JPG)
+![Home Screen](/Samples/clchome2.JPG)
 [[https://github.com/rachitplah/ChitkaraLocalCloud/master/Samples/clchome2.JPG|alt=yeye]]
 The red boxes point out the other important functionalities.
 #### Folder Screen:
