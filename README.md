@@ -8,12 +8,18 @@ The python script used required Robobrowser in Python 3.x at the time of develop
 
 Default user admin id must be changed in the home.php
 
+Provide correct path for all uris.
+
 This project purpose was to make a local cloud which was locally available to users who accessed the university internet so that there could be high speed delivery of content over the intranet. The cloud enabled users with login credentials to upload, download data on the cloud in an organized manner. The project involved use of html, css, javascript, php, python, apache etc.
 
 Author's Group Identity:
-Puneet Goyal 	
+
+Puneet Goyal
+
 Rachit Plah  
-Rahul Jain   
+
+Rahul Jain
+
 Tejasya  
 
 Hardware Requirements: 1. Minimum System PC requirements:(not recommended)
