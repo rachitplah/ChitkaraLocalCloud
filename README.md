@@ -9,6 +9,10 @@
 ### Description:
 This project purpose was to make a local cloud which was locally available to users who accessed the university internet so that there could be high speed delivery of content over the intranet. The cloud enabled users with login credentials to upload, download data on the cloud in an organized manner. The project involved use of html, css, javascript, php, python, apache etc.
 
+### Sample Pages:
+#### Home Screen:
+![alt text](https://raw.githubusercontent.com//rachitplah/ChitkaraLocalCloud/master/Samples/clchome2.JPG)
+
 ### Author's Group Identity:
 * **Puneet Goyal**
 * **Rachit Plah**  
