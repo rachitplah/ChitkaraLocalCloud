@@ -12,12 +12,11 @@ This project purpose was to make a local cloud which was locally available to us
 ### Sample Pages:
 #### Home Screen:
 ![Home Screen](/Samples/clchome2.JPG)
-[[https://github.com/rachitplah/ChitkaraLocalCloud/master/Samples/clchome2.JPG|alt=yeye]]
 The red boxes point out the other important functionalities.
 #### Folder Screen:
-![Folder Screen](https://raw.githubusercontent.com/rachitplah/ChitkaraLocalCloud/master/Samples/clcimagefolder.JPG)
+![Folder Screen](/Samples/clcimagefolder.JPG)
 #### Login Screen:
-![Login Screen](https://raw.githubusercontent.com/rachitplah/ChitkaraLocalCloud/master/Samples/clclogin.JPG)
+![Login Screen](/Samples/clclogin.JPG)
 
 ### Author's Group Identity:
 * **Puneet Goyal**
