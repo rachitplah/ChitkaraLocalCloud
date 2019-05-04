@@ -21,6 +21,7 @@ Hardware Requirements: 1. Minimum System PC requirements:(not recommended)
                           Intel Core 2 Duo
                           Wired/wireless Ethernet Card.
                        2. Proper Server System PC Setup(recommended)
+                       
 Software Requirements: 1. Any OS capable of running Apache Server
                           (Windows, Linux Distribuition, Mac OS, etc).
                        2. Apache combination with Mysql preffered for 
