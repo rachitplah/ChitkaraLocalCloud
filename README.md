@@ -11,7 +11,7 @@ This project purpose was to make a local cloud which was locally available to us
 
 ### Sample Pages:
 #### Home Screen:
-![alt text](https://raw.githubusercontent.com//rachitplah/ChitkaraLocalCloud/master/Samples/clchome2.JPG)
+![alt text](https://raw.githubusercontent.com/rachitplah/ChitkaraLocalCloud/master/Samples/clchome2.JPG)
 
 ### Author's Group Identity:
 * **Puneet Goyal**
