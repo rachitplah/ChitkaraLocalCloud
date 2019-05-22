@@ -4,7 +4,7 @@
 * It strictly works on the intranet user identification portal of Chitkara University. Some URI and other modifications may be required in the python script(hello.py) for use in other projects.
 * The python script used required Robobrowser in Python 3.x at the time of development.
 * Default user admin id must be changed in the home.php
-* Provide correct path for all uris.
+* Provide correct path for all URIs.
 
 ### Description:
 This project purpose was to make a local cloud which was locally available to users who accessed the university internet so that there could be high speed delivery of content over the intranet. The cloud enabled users with login credentials to upload, download data on the cloud in an organized manner. The project involved use of html, css, javascript, php, python, apache etc.
