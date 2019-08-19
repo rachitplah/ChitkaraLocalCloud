@@ -39,7 +39,7 @@ The red boxes point out the other important functionalities.
      (Preffered use of app modules like XAMPP)
 * Python3 installed and working.
 
-### LICENSE
+### General Instructions and Usage Advisory:
 This project resources are made available for educational and fair use only. Any misuse may or may not lead to unfavourable outcomes as applicable by the copyright owners and the contributors. Hence, it must be used as implied above.
 
 This project doesn't publish any vulnerable aspects of the intranet service or any misuse of entities and services of Chitkara University. Hence, any report or claim issued against the same shall not be dealt with.
