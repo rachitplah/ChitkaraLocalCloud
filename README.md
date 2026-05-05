@@ -37,7 +37,7 @@ The red boxes point out the other important functionalities.
 * Apache combination with Mysql preffered for 
      smooth functioning and future developments.
      (Preffered use of app modules like XAMPP)
-* Python3 installed and working.
+* Python3+ installation and addition to path is required.
 
 ### General Instructions and Usage Advisory:
 This project resources are made available for educational and fair use only. Any misuse may or may not lead to unfavourable outcomes as applicable by the copyright owners and the contributors. Hence, it must be used as implied above.
